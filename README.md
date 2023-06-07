@@ -6,14 +6,14 @@ CoreTranslator (CoT) es una expansión de ChatTranslator que permite un control 
 
 ## Características
 
-- Total control de la API de ChatTranslator(ChT).
+- Total control de la API de [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/) (ChT).
 - Capacidad de traducir cualquier texto en el servidor de forma fraccionada.
 - Soporte para [HolographicsDisplays](https://dev.bukkit.org/projects/holographic-displays) y [ConditionalEvents](https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/).
 - Dependencias: [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/), [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), y [ConditionalEvents](https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/) (opcional).
 
 ## Instalación
 
-1. Descarga la última versión de CoreTranslator desde la página de [SpigotMC]() o desde el [GitHub](https://github.com/Majhrs16/CoreTranslator).
+1. Descarga la última versión de CoreTranslator desde la página de [SpigotMC](no disponible) o desde el [GitHub](https://github.com/Majhrs16/CoreTranslator/releases).
 2. Coloca el archivo jar en la carpeta /expansions de [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), no en la carpeta de plugins.
 3. No es necesario reiniciar el servidor, simplemente ejecuta el comando /papi reload.
 4. ¡Listo para usar!
@@ -38,7 +38,7 @@ La documentación completa de los comandos y eventos se puede encontrar en la p�
 
 ## Soporte y Contribuciones
 
-Si necesitas ayuda o tienes alguna pregunta sobre CoreTranslator, puedes unirte a nuestro servidor de Discord. ¡Estaremos encantados de ayudarte a sacar el máximo provecho del plugin! Si tienes interés en contribuir al desarrollo de CoreTranslator, puedes encontrar el código fuente en nuestro repositorio de GitHub.
+Si necesitas ayuda o tienes alguna pregunta sobre CoreTranslator, puedes unirte a nuestro servidor de [Discord](https://discord.gg/kZxHnSVPTg). ¡Estaremos encantados de ayudarte a sacar el máximo provecho del plugin! Si tienes interés en contribuir al desarrollo de CoreTranslator, puedes encontrar el código fuente en nuestro repositorio de GitHub.
 
 ## Licencia
 

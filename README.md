@@ -13,8 +13,8 @@ CoreTranslator (CoT) es una expansión de ChatTranslator que permite un control 
 
 ## Instalación
 
-1. Descarga la última versión de CoreTranslator desde la página de [SpigotMC](no disponible) o desde el [GitHub](https://github.com/Majhrs16/CoreTranslator/releases).
-2. Coloca el archivo jar en la carpeta /expansions de [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), no en la carpeta de plugins.
+1. Descarga la última versión de CoreTranslator desde la página de [SpigotMC](https://no disponible) o desde el [GitHub](https://github.com/Majhrs16/CoreTranslator/releases).
+2. Coloca el archivo jar en la carpeta /expansions de [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), no en la carpeta de plugins.
 3. No es necesario reiniciar el servidor, simplemente ejecuta el comando /papi reload.
 4. ¡Listo para usar!
 
@@ -34,7 +34,7 @@ Para utilizar CoreTranslator, necesitas tener instalados [ChatTranslator](https:
     
     También puedes utilizar la variable `%ct_translate_<sourceLang>_<targetLang>_<mensaje>%`, para extraer el source/target Lang se puede utilizar `%ct_getLang_<player_name>%`.
 
-La documentación completa de los comandos y eventos se puede encontrar en la página de SpigotMC de ChatTranslator.
+La documentación completa de los comandos y eventos se puede encontrar en la página de SpigotMC de ChT.
 
 ## Soporte y Contribuciones
 

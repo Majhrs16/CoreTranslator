@@ -9,7 +9,7 @@ CoreTranslator (CoT) es una expansión de ChatTranslator que permite un control 
 - Total control de la API de [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/) (ChT).
 - Capacidad de traducir cualquier texto en el servidor de forma fraccionada.
 - Soporte para [HolographicsDisplays](https://dev.bukkit.org/projects/holographic-displays) y [ConditionalEvents](https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/).
-- Dependencias: [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/), [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), y [ConditionalEvents](https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/) (opcional).
+- Dependencias: [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/), [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), y [ConditionalEvents](https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/) (opcional).
 
 ## Instalación
 
@@ -26,12 +26,12 @@ Si utilizas [ConditionalEvents](https://www.spigotmc.org/resources/conditionalev
 
 ## Uso
 
-Para utilizar CoreTranslator, necesitas tener instalados [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/) y [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), como requisitos previos. Una vez que tengas estos plugins instalados, puedes utilizar los siguientes métodos para traducir cualquier texto en el servidor de forma fraccionada:
+Para utilizar CoreTranslator, necesitas tener instalados [ChatTranslator](https://www.spigotmc.org/resources/chattranslator.106604/) y [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/), como requisitos previos. Una vez que tengas estos plugins instalados, puedes utilizar los siguientes métodos para traducir cualquier texto en el servidor de forma fraccionada:
     La sintaxis completa de la variable de sendMessage es:
     
-    `%ct_sendMessage_['{from_name}', '{formato_del_mensaje}', '{messages}', '{tool_tips}', '{sonidos}', Boolean show, '{from_lang}', Boolean color, Boolean PAPI]: ['{to_name}', '{configuación_guardada_en_ChT}', '{messages}', '{configuacion_guardada_en_ChT}', '{configuacion_guardada_en_ChT}', Boolean show, '{to_lang}', Boolean color, Boolean PAPI]%`
+    `%ct_sendMessage_['{from_name}', 'formato_del_mensaje', 'mensajes', 'tool_tips', 'sonidos', Boolean show, '{from_lang}', Boolean color, Boolean PAPI]: ['{to_name}', 'configuación_guardada_en_ChT', 'mensajes', 'configuacion_guardada_en_ChT', 'configuacion_guardada_en_ChT', Boolean show, '{to_lang}', Boolean color, Boolean PAPI]%`
         (Todo lo que está encerrado en {} son variables externas)
-    
+
     También puedes utilizar la variable `%ct_translate_<sourceLang>_<targetLang>_<mensaje>%`, para extraer el source/target Lang se puede utilizar `%ct_getLang_<player_name>%`.
 
 La documentación completa de los comandos y eventos se puede encontrar en la página de SpigotMC de ChT.

@@ -1,8 +1,12 @@
 # CoreTranslator
 
-## ADVERTENCIA: Apatir de ahora, ya no se publicara mas versiones independientes de CoreTranslator pues ahora es parte directa de ChatTranslator. En pocas palabras: Solo es necesario ChT y PAPI para disfrutar de CoT.
+> [!WARNING]
+> #### [08/08/2023] Apatir de ahora, ya no se publicara mas versiones independientes de CoreTranslator ~~pues ahora es parte directa de ChatTranslator. En pocas palabras: Solo es necesario ChT y PAPI para disfrutar de CoT~~.
 
-## ¿Qué es CoreTranslator?
+> [!CAUTION]
+> #### [01/01/2025] Se planea dejar el soporte para la extension CoreTranslator...
+
+## ¿Qué _era_ CoreTranslator?
 
 CoreTranslator (CoT) es una expansión de ChatTranslator que permite un control total de la API de ChatTranslator y la traducción de cualquier texto en el servidor de Minecraft de forma fraccionada. CoT te permite ahorrar tiempo y mejorar la eficacia de tu servidor de Minecraft.
 
